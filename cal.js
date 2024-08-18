@@ -21,3 +21,7 @@ function equal(){
         
     }
 }
+
+function percent() {
+    result.value = parseFloat(result.value) / 100;
+}
